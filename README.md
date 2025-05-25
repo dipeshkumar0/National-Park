@@ -16,11 +16,11 @@ This web application serves as a virtual information for the National Park Servi
 
 ## Authors
 
-- [@swatinamdev](https://github.com/swati0806)
+- [@Dipeshjangra](https://github.com/dipeshkumar0)
 
 **Repository Link:** 
 
-https://github.com/swati0806/National-Park-Info-
+-
 
 **Website Deployed at:**
 
