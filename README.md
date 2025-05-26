@@ -24,7 +24,7 @@ This web application serves as a virtual information for the National Park Servi
 
 **Website Deployed at:**
 
-Github pages : national-park-24.netlify.app
+Github pages : https://national-park-24.netlify.app/
 
 - [National Park API](https://www.nps.gov/subjects/developer/api-documentation.htm#/) to present national park information.
 ## Screenshots
